@@ -10,3 +10,4 @@ This Chat Application is a real-time client-server communication platform design
 **Dependency Management:** Built with Maven, ensuring streamlined builds and dependency resolution.
 
 **Demo Video Link:** https://drive.google.com/file/d/1i35_vxeCuEPcULfs-qBD_HniGWVPVTmQ/view?usp=sharing 
+
